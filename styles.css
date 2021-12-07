@@ -22,6 +22,10 @@
         color: #e76f3d;
     }
     
+    .navbar-nav>.nav-item>.nav-link.active {
+        color: #e76f3d;
+    }
+    
     .my-introduction {
         text-align: center;
         /* font-family: Georgia, serif; */
@@ -161,6 +165,22 @@
     #demo>.row {
         margin-top: 3%;
     }
+    
+    #experience>.row>.col>.card>.card-body>.card-title {
+        color: black;
+    }
+    
+    #experience>.row>.col>.card>.card-body>.card-text {
+        color: rgba(0, 0, 0, 0.356);
+        font-size: 1.2rem;
+    }
+    
+    #experience>.row>.col>.card>img {
+        width: 50%;
+        height: 35%;
+        margin-left: 26%;
+        margin-top: 7%;
+    }
     /* #demo2>.card>.row>.col-md-4>img { 
         margin-top: 60%;
     }
@@ -209,4 +229,36 @@
     
     body {
         font-family: "Lato";
+    }
+    
+    .blogs .button {
+        background: #e76f3d;
+    }
+    
+    .blogs .button.collapsed {
+        background: #f7b396;
+    }
+    
+    #story>.row>.col>.card>.card-body>.card-title {
+        color: black;
+    }
+    
+    #story>.row>.col>.card>.card-body>.card-text {
+        color: rgba(0, 0, 0, 0.356);
+        font-size: 1.2rem;
+    }
+    
+    #story>.row>.col>.card>img {
+        width: 50%;
+        height: 35%;
+        margin-left: 26%;
+        margin-top: 7%;
+    }
+    
+    #story> {
+        margin-top: 4%;
+    }
+    
+    #story>.row {
+        margin-top: 3%;
     }
