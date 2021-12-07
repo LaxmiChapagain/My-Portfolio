@@ -1,4 +1,4 @@
-var sendEmailUrl = "https://rabimsoft.com/sendemail.php"
+var sendEmailUrl = "http://rabimsoft.com/sendemail.php"
 $(document).on('submit', '#sendEmailForm', function(event) {
     event.preventDefault();
     var loadingButton = jQuery(this).find('#sendEmailBtn');
