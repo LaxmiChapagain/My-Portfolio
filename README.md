@@ -1,2 +1,2 @@
 # My-Portfolio
-My Portfolio is "me" in a nutshell.
+This is my portfolio which is hosted in"https://laxmichapagain.github.io/My-Portfolio/".
