@@ -1,3 +1,1 @@
-# My-Portfolio
-My Portfolio is "me" in a nutshell.
-A complete portfolio developed using HTML, CSS, Javascript and framework bootstrap.
+This is my portfolio which is hosted in"https://laxmichapagain.github.io/My-Portfolio/".
